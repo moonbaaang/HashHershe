@@ -26,7 +26,7 @@ public class SearchController {
 	// 테스트용, 추후 main페이지로 기능 이동 필요
 	@RequestMapping("/searchtest")
 	public String test() {
-		return "main/search/mainsearchtest";
+		return "main/search/test";
 	}
 		
 	@RequestMapping("/search")
