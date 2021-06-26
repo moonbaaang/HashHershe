@@ -6,7 +6,8 @@
 >
 > *team* 김승겸, 김다현, 문병전, 안재완, 하은
 
-<center>![logo](image/logo.jpg)<center>
+![logo](image/logo.jpg)
+
 
 ## 개발 목적
 
