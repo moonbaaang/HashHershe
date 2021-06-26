@@ -24,7 +24,7 @@
 >
 > *team* 김승겸, 김다현, 문병전, 안재완, 하은
 
-<img src="image/logo.jpg" align=center;>
+<center><img src="image/logo.jpg"></center>
 
 
 ## 개발 목적
