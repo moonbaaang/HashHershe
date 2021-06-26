@@ -113,7 +113,7 @@
 
 ## 기대 효과
 
-<center><img src="image/12.jpg"></center>
+<center><img src="image/12.JPG"></center>
 
 ## 프로젝트 후기
 
