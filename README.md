@@ -24,7 +24,7 @@
 >
 > *team* 김승겸, 김다현, 문병전, 안재완, 하은
 
-![logo](image/logo.jpg)
+<center><img src="image/logo.jpg"></center>
 
 
 ## 개발 목적
@@ -59,49 +59,47 @@
 
 ## 개발 도구
 
-![1](image/1.JPG)
-
-![2](image/2.JPG)
+<center><img src="image/1.JPG"><img src="image/2.JPG"></center>
 
 * 프로젝트 수행 절차
 
-![3](image/3.JPG)
+<center><img src="image/3.JPG"></center>
 
 ## 프로젝트 수행 결과
 
 * 구현 기능
 
-![4](image/4.JPG)
+<center><img src="image/4.JPG"></center>
 
 * 메인페이지(팔로우한 사람의 게시물 무한스크롤) 및 게시글 올리기
 
-![5](image/5.jpg)
+<center><img src="image/5.JPG"></center>
 
 * 추출된 해시태그 가격비교 쇼핑몰과 연결
 
-![6](image/6.jpg)
+<center><img src="image/6.JPG"></center>
 
 * 프로필 및 게시글
 
-![7](image/7.jpg)
+<center><img src="image/7.JPG"></center>
 
 * 검색 결과 (아이디, 이름, 해시태그 검색기능)
 
-![8](image/8.jpg)
+<center><img src="image/8.JPG"></center>
 
 * 해시태그 검색 결과
 
-![9](image/9.jpg)
+<center><img src="image/9.JPG"></center>
 
 ## 예측 수익 모델
 
 1️⃣ 광고 삽입
 
-![10](image/10.JPG)
+<center><img src="image/10.JPG"></center>
 
 2️⃣ 제휴 쇼핑몰 연결
 
-![11](image/11.jpg)
+<center><img src="image/11.JPG"></center>
 
 ## 프로젝트 수행 결과
 
@@ -115,7 +113,7 @@
 
 ## 기대 효과
 
-![12](image/12.JPG)
+<center><img src="image/12.JPG"></center>
 
 ## 프로젝트 후기
 
