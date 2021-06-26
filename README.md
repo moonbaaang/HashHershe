@@ -4,7 +4,7 @@
     <img alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
     <img alt="jquery" src ="https://img.shields.io/badge/jquery-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
     <img alt="spring" src ="https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-     <img alt="mysql" src ="image/mysql-4479A1.svg"/><br><br>
+     <img alt="mysql" src ="image/mysql-4479A1.svg"/>
     <img alt="apachetomcat" src ="https://img.shields.io/badge/apachetomcat-F8DC75.svg?&style=for-the-badge&logo=apachetomcat&logoColor=white"/>
     <img alt="jenkins" src ="https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
     <img alt="springboot" src ="https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
