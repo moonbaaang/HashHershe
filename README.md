@@ -73,33 +73,33 @@
 
 * 메인페이지(팔로우한 사람의 게시물 무한스크롤) 및 게시글 올리기
 
-<center><img src="image/5.JPG"></center>
+<center><img src="image/5.jpg"></center>
 
 * 추출된 해시태그 가격비교 쇼핑몰과 연결
 
-<center><img src="image/6.JPG"></center>
+<center><img src="image/6.jpg"></center>
 
 * 프로필 및 게시글
 
-<center><img src="image/7.JPG"></center>
+<center><img src="image/7.jpg"></center>
 
 * 검색 결과 (아이디, 이름, 해시태그 검색기능)
 
-<center><img src="image/8.JPG"></center>
+<center><img src="image/8.jpg"></center>
 
 * 해시태그 검색 결과
 
-<center><img src="image/9.JPG"></center>
+<center><img src="image/9.jpg"></center>
 
 ## 예측 수익 모델
 
 1️⃣ 광고 삽입
 
-<center><img src="image/10.JPG"></center>
+<center><img src="image/10.jpg"></center>
 
 2️⃣ 제휴 쇼핑몰 연결
 
-<center><img src="image/11.JPG"></center>
+<center><img src="image/11.jpg"></center>
 
 ## 프로젝트 수행 결과
 
@@ -113,7 +113,7 @@
 
 ## 기대 효과
 
-<center><img src="image/12.JPG"></center>
+<center><img src="image/12.jpg"></center>
 
 ## 프로젝트 후기
 
