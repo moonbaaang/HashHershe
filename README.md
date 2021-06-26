@@ -95,7 +95,7 @@
 
 1️⃣ 광고 삽입
 
-<center><img src="image/10.jpg"></center>
+<center><img src="image/10.JPG"></center>
 
 2️⃣ 제휴 쇼핑몰 연결
 
